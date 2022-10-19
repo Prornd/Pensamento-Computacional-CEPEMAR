@@ -1,2 +1,2 @@
-# Pensamento-Computacional-CEPEMAR
+# Pensamento Computacional CEPEMAR
 1º B 
